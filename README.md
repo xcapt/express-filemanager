@@ -2,6 +2,8 @@
 node.js express connector for simogeo filemanager
 https://github.com/simogeo/Filemanager
 
+*CONTRIBUTORS WELCOME* :)
+
 
 install
 -------
