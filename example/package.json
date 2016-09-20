@@ -1,0 +1,14 @@
+{
+  "name": "express-filemanager-example",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.14.0",
+    "express": "^4.13.3",
+    "multer": "^1.0.5"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
